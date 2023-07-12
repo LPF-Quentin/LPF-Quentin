@@ -17,4 +17,4 @@ creation d'un site de visualisation de données sur le theme de League of Legend
 https://github.com/LPF-Quentin/OP.GG-version-wish
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPF-Quentin)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LPF-Quentin&theme=vision-friendly-dark_icons=true)
